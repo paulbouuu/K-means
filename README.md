@@ -57,7 +57,7 @@ You can test the algorithm and generate visualizations with the included noteboo
 
 The class `K_means` saves visualizations of each iteration in the `images/` folder. Once training completes, it generates an animated GIF (`k_means_anim.gif`) illustrating how the centroids fit the data over time.
 
-![K-means Animation](https://github.com/paulbouuu/EM-gaussian-mixture/raw/main/resources/optimal_k_means.gif)
+![K-means Animation](https://github.com/paulbouuu/K-means/raw/main/resources/optimal_k_means.gif)
 
 ### License
 This project is free to use and modify under the MIT License. See the [LICENSE](LICENSE) file for details.
